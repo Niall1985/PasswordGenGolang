@@ -1,7 +1,3 @@
-Sure, here's a README for your Go program that generates a random password:
-
----
-
 # Random Password Generator
 
 This is a simple command-line tool written in Go to generate a random password of specified length. The generated password includes characters from the following sets:
