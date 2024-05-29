@@ -17,13 +17,13 @@ Make sure you have Go installed on your system. You can download and install it 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Niall1985/PASSWORDGENGOLANG.git
+git clone https://github.com/Niall1985/PasswordGenGolang.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd PASSWORDGENGOLANG
+cd PasswordGenGolang
 ```
 
 Run the program:
@@ -44,4 +44,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this README to include any additional information or instructions you think would be helpful for users of your program.
